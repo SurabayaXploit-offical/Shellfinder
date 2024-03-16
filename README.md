@@ -5,7 +5,7 @@
 Feature : 
 - Mass Scanning√
 - auto get shell√
-- Support http/https
+- Support http/https√
 - supprot android/laptop√
 
 Requirement :
