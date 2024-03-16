@@ -19,12 +19,11 @@ Install :
 ```
 pip install colorama
 pip install bs4
-pip install requests```
-
-
-How To Usage :
-
+pip install requests
 ```
+
+
+```How To Usage :
 python3 shellfinderpy
 ```
 
