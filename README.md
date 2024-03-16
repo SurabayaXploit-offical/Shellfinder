@@ -21,7 +21,7 @@ pip install colorama
 pip install bs4
 pip install requests```
 
-```pip install requests
+
 How To Usage :
 
 ```
